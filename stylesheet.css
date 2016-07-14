@@ -1,3 +1,7 @@
 .text-muted{
 	font-size: 48px;
 }
+
+#test {
+	max-width: none;
+}
